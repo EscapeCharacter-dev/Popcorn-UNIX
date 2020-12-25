@@ -1,0 +1,2 @@
+i686-elf-g++ -c src/kmain.cpp -o obj/kmain.obj -ffreestanding -Wall -Wextra \
+	-Werror -O2 -fno-exceptions -fno-rtti
